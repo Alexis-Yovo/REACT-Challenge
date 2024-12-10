@@ -1,0 +1,22 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.number-list {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.number {
+  font-size: 1.5rem;
+}
+
+.sorted {
+  margin-top: 20px;
+}
